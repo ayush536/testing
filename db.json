@@ -1,0 +1,39 @@
+{
+  "games": [
+    {
+      "title": "",
+      "creator": "",
+      "type": "",
+      "price": "",
+      "id": 1
+    },
+    {
+      "title": "assd",
+      "creator": "",
+      "type": "",
+      "price": "",
+      "id": 2
+    },
+    {
+      "title": "",
+      "creator": "",
+      "type": "",
+      "price": "",
+      "id": 3
+    },
+    {
+      "title": "",
+      "creator": "",
+      "type": "",
+      "price": "",
+      "id": 4
+    },
+    {
+      "title": "asdasd",
+      "creator": "asdasd",
+      "type": "asdasd",
+      "price": "",
+      "id": 5
+    }
+  ]
+}
